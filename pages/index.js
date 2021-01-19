@@ -1,6 +1,7 @@
 import Head from "next/head";
 import Link from "next/link";
-import Date from "../components/date"
+import Date from "../components/date";
+import quote from "../components/bio-roulette";
 
 import Layout, { siteTitle } from "../components/layout";
 import utilStyles from "../styles/utils.module.css";
@@ -21,6 +22,11 @@ export default function Home({ allPostsData }) {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
+        <h2 id="header--bio">
+          <i> == $0
+        {quote}
+          </i>
+        </h2>
         <p>[My name is Achmad Dhikrillah, and i'm a recent Information System graduated from Airlangga University]</p>
       </section>
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
