@@ -5,6 +5,7 @@ import Date from "../components/date"
 import Layout, { siteTitle } from "../components/layout";
 import utilStyles from "../styles/utils.module.css";
 
+import { CubeGrid } from 'styled-loaders-react';
 // tdi salah disini.
 // harusnya `import ... from '../posts'`,
 // tpi tdi `import ... from '../nextjs-blog/posts'`
