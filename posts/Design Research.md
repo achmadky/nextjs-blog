@@ -8,18 +8,18 @@ date: '2020-09-30'
 
 The question you need yo answer when you do design research: 
 
-**"Who is our target?"**
+Who is our target?
 
-**"Why use our product?"**
+Why use our product?
 
-**"What is their Motivation?"**
+What is their Motivation?
 
-**"What do they Expect?"**
+What do they Expect?
 
-**"How do they solve their Problem?"**
+How do they solve their Problem?
 
 
-## 5 tips for design research
+# 5 tips for design research
 
  **First** 
 Start with the questions you want to be answered.

@@ -1,5 +1,5 @@
 ---
-title: 'Start with figma as Ui Designer'
+title: 'Start as Ui Designer'
 date: '2020-09-28'
 ---
 
