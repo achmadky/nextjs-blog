@@ -1,5 +1,5 @@
 ---
-title: 'Tips Data Visiualization'
+title: 'Tips Data Visualization'
 date: '2021-01-19'
 ---
 
